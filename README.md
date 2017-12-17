@@ -1,11 +1,10 @@
 # PHP-Leveler
+## 001-Everithig started with a bang
 
-Do you want to know how PHP is used in real word proyect today?
-Are you up for a multi-steps "learning" process?
+Get composer https://getcomposer.org/
 
-Welcome, jump in!
 
-To procede you'll need some things (all free, as in beer):
-- github account
-- git
-- PHP 7 environment
+https://github.com/sebastianbergmann/phpunit
+
+composer install
+./bin/phpunit tests/
